@@ -114,7 +114,8 @@ This paper presents a context-aware anthropomorphic robotic hand system, MagicHa
 ## Learning robotic grasping strategy based on natural-language object descriptions
 This paper presents a learning-based approach for determining grasping strategies for an anthropomorphic robotic hand using natural-language descriptions of objects. A customized natural language processing technique is used to extract object features, which are then mapped to appropriate grasp types based on a human grasp taxonomy. The proposed method is evaluated through both simulation and real-world experiments using an AR10 robotic hand, demonstrating its effectiveness in generating suitable grasp strategies from linguistic input.
 
-
+<p align="center"> 
+<img src="images/robio.jpg" alt="dexDual" width="400"/></p>
 
     @inproceedings{rao2018learning,
       title={Learning robotic grasping strategy based on natural-language object descriptions},
