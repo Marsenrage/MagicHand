@@ -38,7 +38,33 @@ This dataset was revised from the Yale human grasping dataset. It contains human
 
 This platform is used in the following papers
 
+## Grasp Intention Interpretation in Object Handover for Human-Robot Teaming
 
+    @inproceedings{li2024grasp,
+    title={Grasp Intention Interpretation in Object Handover for Human-Robot Teaming},
+    author={Li, Hui and Uz Zaman, Akhlak and He, Hongsheng},
+    booktitle={International Conference on Social Robotics},
+    pages={346--354},
+    year={2024},
+    organization={Springer}
+    }
+[[download paper](https://link.springer.com/chapter/10.1007/978-981-96-1151-5_35)]
+
+## Knowledge Augmentation and Task Planning in Large Language Models for Dexterous Grasping
+
+    @inproceedings{li2023knowledge,
+    title={Knowledge Augmentation and Task Planning in Large Language Models for Dexterous Grasping},
+    author={Li, Hui and Tran, Dang and Zhang, Xinyu and He, Hongsheng},
+    booktitle={2023 IEEE-RAS 22nd International Conference on Humanoid Robots (Humanoids)},
+    pages={1--8},
+    year={2023},
+    organization={IEEE}
+    }
+
+[[download paper](https://ieeexplore.ieee.org/document/10375176)]
+
+
+## Learning Task-Oriented Dexterous Grasping from Human Knowledge
 
     @inproceedings{li2021learning,
       title={Learning Task-Oriented Dexterous Grasping from Human Knowledge},
@@ -50,6 +76,7 @@ This platform is used in the following papers
     }
 [[download paper](https://ieeexplore.ieee.org/abstract/document/9562073)]
 
+## MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand
     @inproceedings{li2020magichand,
       title={MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand},
       author={Li, Hui and Tan, Jindong and He, Hongsheng},
@@ -60,6 +87,7 @@ This platform is used in the following papers
     }
 [[download paper](https://ieeexplore.ieee.org/document/9196538)]
 
+## Learning robotic grasping strategy based on natural-language object descriptions
     @inproceedings{rao2018learning,
       title={Learning robotic grasping strategy based on natural-language object descriptions},
       author={Rao, Achyutha Bharath and Krishnan, Krishna and He, Hongsheng},
@@ -70,6 +98,7 @@ This platform is used in the following papers
     }
 [[download paper](https://ieeexplore.ieee.org/document/8593886)]
 
+## Magichand: In-hand perception of object characteristics for dexterous manipulation
     @inproceedings{li2018magichand,
       title={Magichand: In-hand perception of object characteristics for dexterous manipulation},
       author={Li, Hui and Yihun, Yimesker and He, Hongsheng},
