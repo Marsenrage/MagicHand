@@ -1,12 +1,18 @@
 # Overview
 
-This repository provides the simulation environment for the DexMobile platform, the task-object grasp dataset, and the source codes for 2 object manipulation tasks.
-
-
-
+This repository includes the simulation environment for the MagicHand platform, a task-object grasp dataset, and the source code for two reinforcement learning models designed for object manipulation tasks.
 
 # MagicHand
-The simulation environment of the MagicHand platform
+The MagicHand platform is a context-aware dexterous manipulation system comprising a Sawyer robotic arm and an AR10 robotic hand. It integrates multiple sensors, including a RealSense RGB-D camera, a SCiO sensor for near-infrared (NIR) perception, and an inertial measurement unit (IMU).
 
 <p align="center"> 
 <img src="images/magichand.jpg" alt="dexDual" width="400"/></p>
+
+The simulation environment is developed using PyBullet within the Gym framework. It supports reinforcement learning and enables a range of applications, including object alignment, pick-and-place, and dexterous manipulation tasks.
+
+# Task-Oriented Objects Dataset
+This dataset was revised from the Yale human grasping dataset. It contains human knowledge representation of 6554 grasping tasks.
+
+<p align="center"> 
+<img src="images/tood.png" alt="dexDual" width="640"/></p>
+
