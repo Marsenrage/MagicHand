@@ -44,7 +44,7 @@ This dataset was revised from the Yale human grasping dataset. It contains human
 This platform is used in the following papers
 
 ## Grasp Intention Interpretation in Object Handover for Human-Robot Teaming
-This paper introduces a grasp adaptation algorithm that enables social robots to recognize and adjust to individual human grasping habits, enhancing the safety and fluidity of object handovers. By extracting 3D key points from RGB images and classifying them into six standard grasp topologies, the system estimates object pose and uses reinforcement learning to optimize the handover process. Experimental results confirm its effectiveness in adapting to diverse human behaviors in social contexts.
+This paper introduces a grasp adaptation algorithm that enables social robots to recognize and adjust to individual human grasping habits, enhancing the safety and fluidity of object handovers. By extracting 3D key points from RGB images and classifying them into six standard grasp topologies, the system estimates object pose and uses reinforcement learning to optimize the handover process.
 
 <p align="center"> 
 <img src="images/handover.jpg" alt="dexDual" width="800"/></p>
@@ -61,6 +61,10 @@ This paper introduces a grasp adaptation algorithm that enables social robots to
 [[download paper](https://link.springer.com/chapter/10.1007/978-981-96-1151-5_35)]
 
 ## Knowledge Augmentation and Task Planning in Large Language Models for Dexterous Grasping
+This paper presents a Cognition-Based Grasping System that enhances dexterous grasping by integrating high-level cognitive processes. Unlike existing approaches that rely heavily on object datasets and learning-based planning, this system incorporates perception, reasoning, and intuition using a Large Language Model to infer missing object information through common sense. It then learns and executes appropriate grasp strategies.
+
+<p align="center"> 
+<img src="images/humanoid.jpg" alt="dexDual" width="800"/></p>
 
     @inproceedings{li2023knowledge,
     title={Knowledge Augmentation and Task Planning in Large Language Models for Dexterous Grasping},
@@ -75,7 +79,10 @@ This paper introduces a grasp adaptation algorithm that enables social robots to
 
 
 ## Learning Task-Oriented Dexterous Grasping from Human Knowledge
+This paper proposes a task-oriented dexterous grasping framework that enables robots to learn and adapt grasp strategies based on human experience, object affordances, and task requirements. Grasp topologies are defined and learned from a task-oriented dataset, while a reinforcement learning-based policy enables context-aware strategy deployment. Evaluated using a simulated environment with an AR10 hand on a Sawyer robot, the system achieved a 100% hit rate for grasp strategies, a 95.6% top-3 match rate, and an 85.6% grasp success rate across 2,700 manipulation tasks guided by natural-language instructions.
 
+<p align="center"> 
+<img src="images/icra2021.jpg" alt="dexDual" width="800"/></p>
     @inproceedings{li2021learning,
       title={Learning Task-Oriented Dexterous Grasping from Human Knowledge},
       author={Li, Hui and Zhang, Yinlong and Li, Yanan and He, Hongsheng},
