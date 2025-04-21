@@ -41,7 +41,7 @@ This dataset was revised from the Yale human grasping dataset. It contains human
 
 # Publications
 
-This platform is used in the following papers
+This platform has been utilized in the following publications
 
 ## Grasp Intention Interpretation in Object Handover for Human-Robot Teaming
 This paper introduces a grasp adaptation algorithm that enables social robots to recognize and adjust to individual human grasping habits, enhancing the safety and fluidity of object handovers. By extracting 3D key points from RGB images and classifying them into six standard grasp topologies, the system estimates object pose and uses reinforcement learning to optimize the handover process.
