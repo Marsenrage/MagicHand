@@ -2,6 +2,14 @@
 
 This repository includes the simulation environment for the MagicHand platform, a task-object grasp dataset, and the source code for two reinforcement learning models designed for object manipulation tasks.
 
+<p align="center"> 
+<img src="images/PoPdAb2.gif" alt="simu env" width="150"/>
+<img src="images/pPdAb23.gif" alt="simu env" width="150"/>
+<img src="images/pPdAb24.gif" alt="simu env" width="150"/>
+<img src="images/poPmAb25.gif" alt="simu env" width="150"/>
+</p>
+
+
 # MagicHand
 The MagicHand platform is a context-aware dexterous manipulation system comprising a Sawyer robotic arm and an AR10 robotic hand. It integrates multiple sensors, including a RealSense RGB-D camera, a SCiO sensor for near-infrared (NIR) perception, and an inertial measurement unit (IMU).
 
@@ -14,5 +22,5 @@ The simulation environment is developed using PyBullet within the Gym framework.
 This dataset was revised from the Yale human grasping dataset. It contains human knowledge representation of 6554 grasping tasks.
 
 <p align="center"> 
-<img src="images/tood.png" alt="dexDual" width="640"/></p>
+<img src="images/tood.png" alt="dexDual" width="800"/></p>
 
