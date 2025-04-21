@@ -9,6 +9,12 @@ This repository includes the simulation environment for the MagicHand platform, 
 <img src="images/poPmAb25.gif" alt="simu env" width="200"/>
 </p>
 
+<p align="center"> 
+<img src="images/1.gif" alt="simu env" width="200"/>
+<img src="images/2.gif" alt="simu env" width="200"/>
+<img src="images/3.gif" alt="simu env" width="200" height="136"/>
+<img src="images/4.gif" alt="simu env" width="200"/>
+</p>
 If you find this environment helpful, please consider cite
 
     @inproceedings{li2020magichand,
