@@ -9,4 +9,4 @@ This repository provides the simulation environment for the DexMobile platform, 
 The simulation environment of the MagicHand platform
 
 <p align="center"> 
-<img src="images/magichand.jpg" alt="dexDual" width="640"/></p>
+<img src="images/magichand.jpg" alt="dexDual" width="400"/></p>
