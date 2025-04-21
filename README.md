@@ -9,6 +9,16 @@ This repository includes the simulation environment for the MagicHand platform, 
 <img src="images/poPmAb25.gif" alt="simu env" width="200"/>
 </p>
 
+If you find this environment helpful, please consider cite
+
+    @inproceedings{li2020magichand,
+      title={MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand},
+      author={Li, Hui and Tan, Jindong and He, Hongsheng},
+      booktitle={2020 IEEE International Conference on Robotics and Automation (ICRA)},
+      pages={9895--9901},
+      year={2020},
+      organization={IEEE}
+    }
 
 # MagicHand
 The MagicHand platform is a context-aware dexterous manipulation system comprising a Sawyer robotic arm and an AR10 robotic hand. It integrates multiple sensors, including a RealSense RGB-D camera, a SCiO sensor for near-infrared (NIR) perception, and an inertial measurement unit (IMU).
@@ -24,3 +34,48 @@ This dataset was revised from the Yale human grasping dataset. It contains human
 <p align="center"> 
 <img src="images/tood.png" alt="dexDual" width="800"/></p>
 
+# Publications
+
+This platform is used in the following papers
+
+
+
+    @inproceedings{li2021learning,
+      title={Learning Task-Oriented Dexterous Grasping from Human Knowledge},
+      author={Li, Hui and Zhang, Yinlong and Li, Yanan and He, Hongsheng},
+      booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+      pages={6192--6198},
+      year={2021},
+      organization={IEEE}
+    }
+[[download paper](https://ieeexplore.ieee.org/abstract/document/9562073)]
+
+    @inproceedings{li2020magichand,
+      title={MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand},
+      author={Li, Hui and Tan, Jindong and He, Hongsheng},
+      booktitle={2020 IEEE International Conference on Robotics and Automation (ICRA)},
+      pages={9895--9901},
+      year={2020},
+      organization={IEEE}
+    }
+[[download paper](https://ieeexplore.ieee.org/document/9196538)]
+
+    @inproceedings{rao2018learning,
+      title={Learning robotic grasping strategy based on natural-language object descriptions},
+      author={Rao, Achyutha Bharath and Krishnan, Krishna and He, Hongsheng},
+      booktitle={2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+      pages={882--887},
+      year={2018},
+      organization={IEEE}
+    }
+[[download paper](https://ieeexplore.ieee.org/document/8593886)]
+
+    @inproceedings{li2018magichand,
+      title={Magichand: In-hand perception of object characteristics for dexterous manipulation},
+      author={Li, Hui and Yihun, Yimesker and He, Hongsheng},
+      booktitle={Social Robotics: 10th International Conference, ICSR 2018},
+      pages={523--532},
+      year={2018},
+      organization={Springer}
+    }
+[[download paper](https://link.springer.com/chapter/10.1007/978-3-030-05204-1_51)]
