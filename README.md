@@ -37,7 +37,7 @@ The simulation environment is developed using PyBullet within the Gym framework.
 This dataset was revised from the Yale human grasping dataset. It contains human knowledge representation of 6554 grasping tasks.
 
 <p align="center"> 
-<img src="images/tood.png" alt="dexDual" width="700"/></p>
+<img src="images/tood.png" alt="dexDual" width="780"/></p>
 
 # Publications
 
@@ -47,7 +47,7 @@ This platform is used in the following papers
 This paper introduces a grasp adaptation algorithm that enables social robots to recognize and adjust to individual human grasping habits, enhancing the safety and fluidity of object handovers. By extracting 3D key points from RGB images and classifying them into six standard grasp topologies, the system estimates object pose and uses reinforcement learning to optimize the handover process.
 
 <p align="center"> 
-<img src="images/handover.jpg" alt="dexDual" width="800"/></p>
+<img src="images/handover.jpg" alt="dexDual" width="700"/></p>
 
 
     @inproceedings{li2024grasp,
@@ -91,6 +91,7 @@ This paper proposes a task-oriented dexterous grasping framework that enables ro
       year={2021},
       organization={IEEE}
     }
+
 [[download paper](https://ieeexplore.ieee.org/abstract/document/9562073)]
 
 ## MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand
@@ -107,6 +108,7 @@ This paper presents a context-aware anthropomorphic robotic hand system, MagicHa
       year={2020},
       organization={IEEE}
     }
+
 [[download paper](https://ieeexplore.ieee.org/document/9196538)]
 
 ## Learning robotic grasping strategy based on natural-language object descriptions
@@ -123,6 +125,7 @@ This paper presents a learning-based approach for determining grasping strategie
       year={2018},
       organization={IEEE}
     }
+
 [[download paper](https://ieeexplore.ieee.org/document/8593886)]
 
 ## Magichand: In-hand perception of object characteristics for dexterous manipulation
@@ -140,4 +143,5 @@ This paper addresses a key challenge in dexterous grasping: perceiving object ch
       year={2018},
       organization={Springer}
     }
+    
 [[download paper](https://link.springer.com/chapter/10.1007/978-3-030-05204-1_51)]
