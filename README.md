@@ -1,6 +1,6 @@
 # Overview
 
-This repository includes the simulation environment for the MagicHand platform, a task-object grasp dataset, and the source code for two reinforcement learning models designed for object manipulation tasks.
+This repository includes the simulation environment for the MagicHand platform, a task-object grasp dataset, and the source code for two reinforcement learning models designed for object grasping and object alignment tasks.
 
 <p align="center"> 
 <img src="images/PoPdAb2.gif" alt="simu env" width="200"/>
