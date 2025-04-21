@@ -47,7 +47,7 @@ This platform is used in the following papers
 This paper introduces a grasp adaptation algorithm that enables social robots to recognize and adjust to individual human grasping habits, enhancing the safety and fluidity of object handovers. By extracting 3D key points from RGB images and classifying them into six standard grasp topologies, the system estimates object pose and uses reinforcement learning to optimize the handover process.
 
 <p align="center"> 
-<img src="images/handover.jpg" alt="dexDual" width="700"/></p>
+<img src="images/handover.jpg" alt="dexDual" width="680"/></p>
 
 
     @inproceedings{li2024grasp,
@@ -64,7 +64,7 @@ This paper introduces a grasp adaptation algorithm that enables social robots to
 This paper presents a Cognition-Based Grasping System that enhances dexterous grasping by integrating high-level cognitive processes. Unlike existing approaches that rely heavily on object datasets and learning-based planning, this system incorporates perception, reasoning, and intuition using a Large Language Model to infer missing object information through common sense. It then learns and executes appropriate grasp strategies.
 
 <p align="center"> 
-<img src="images/humanoid.jpg" alt="dexDual" width="700"/></p>
+<img src="images/humanoid.jpg" alt="dexDual" width="680"/></p>
 
     @inproceedings{li2023knowledge,
     title={Knowledge Augmentation and Task Planning in Large Language Models for Dexterous Grasping},
@@ -82,7 +82,7 @@ This paper presents a Cognition-Based Grasping System that enhances dexterous gr
 This paper proposes a task-oriented dexterous grasping framework that enables robots to learn and adapt grasp strategies based on human experience, object affordances, and task requirements. Grasp topologies are defined and learned from a task-oriented dataset, while a reinforcement learning-based policy enables context-aware strategy deployment. Evaluated using a simulated environment with an AR10 hand on a Sawyer robot, the system achieved a 100% hit rate for grasp strategies, a 95.6% top-3 match rate, and an 85.6% grasp success rate across 2,700 manipulation tasks guided by natural-language instructions.
 
 <p align="center"> 
-<img src="images/icra2021.jpg" alt="dexDual" width="700"/></p>
+<img src="images/icra2021.jpg" alt="dexDual" width="680"/></p>
     @inproceedings{li2021learning,
       title={Learning Task-Oriented Dexterous Grasping from Human Knowledge},
       author={Li, Hui and Zhang, Yinlong and Li, Yanan and He, Hongsheng},
@@ -99,7 +99,7 @@ This paper proposes a task-oriented dexterous grasping framework that enables ro
 This paper presents a context-aware anthropomorphic robotic hand system, MagicHand, which gathers multimodal information about target objects and generates appropriate grasping strategies accordingly. The system leverages Near-Infrared (NIR) spectroscopy to recognize material properties at the molecular level and uses RGB-D images to estimate object dimensions. Six commonly used grasping poses are defined, and the system selects the most suitable grasp strategy based on the perceived object characteristics.
 
 <p align="center"> 
-<img src="images/icra2020.jpg" alt="dexDual" width="700"/></p>
+<img src="images/icra2020.jpg" alt="dexDual" width="680"/></p>
     @inproceedings{li2020magichand,
       title={MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand},
       author={Li, Hui and Tan, Jindong and He, Hongsheng},
@@ -115,7 +115,7 @@ This paper presents a context-aware anthropomorphic robotic hand system, MagicHa
 This paper presents a learning-based approach for determining grasping strategies for an anthropomorphic robotic hand using natural-language descriptions of objects. A customized natural language processing technique is used to extract object features, which are then mapped to appropriate grasp types based on a human grasp taxonomy. The proposed method is evaluated through both simulation and real-world experiments using an AR10 robotic hand, demonstrating its effectiveness in generating suitable grasp strategies from linguistic input.
 
 <p align="center"> 
-<img src="images/robio.jpg" alt="dexDual" width="400"/></p>
+<img src="images/robio.jpg" alt="dexDual" width="300"/></p>
 
     @inproceedings{rao2018learning,
       title={Learning robotic grasping strategy based on natural-language object descriptions},
@@ -143,5 +143,5 @@ This paper addresses a key challenge in dexterous grasping: perceiving object ch
       year={2018},
       organization={Springer}
     }
-    
+
 [[download paper](https://link.springer.com/chapter/10.1007/978-3-030-05204-1_51)]
