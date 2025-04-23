@@ -58,7 +58,7 @@ This paper introduces a grasp adaptation algorithm that enables social robots to
     year={2024},
     organization={Springer}
     }
-[[download paper](https://link.springer.com/chapter/10.1007/978-981-96-1151-5_35)]
+[[download paper](files/icsr2023.pdf)]
 
 ## Knowledge Augmentation and Task Planning in Large Language Models for Dexterous Grasping
 This paper presents a Cognition-Based Grasping System that enhances dexterous grasping by integrating high-level cognitive processes. Unlike existing approaches that rely heavily on object datasets and learning-based planning, this system incorporates perception, reasoning, and intuition using a Large Language Model to infer missing object information through common sense. It then learns and executes appropriate grasp strategies.
@@ -75,7 +75,7 @@ This paper presents a Cognition-Based Grasping System that enhances dexterous gr
     organization={IEEE}
     }
 
-[[download paper](https://ieeexplore.ieee.org/document/10375176)]
+[[download paper](files/humanoid.pdf)]
 
 
 ## Learning Task-Oriented Dexterous Grasping from Human Knowledge
@@ -92,7 +92,7 @@ This paper proposes a task-oriented dexterous grasping framework that enables ro
       organization={IEEE}
     }
 
-[[download paper](https://ieeexplore.ieee.org/abstract/document/9562073)]
+[[download paper](files/ICRA2021.pdf)]
 
 ## MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand
 
@@ -109,7 +109,7 @@ This paper presents a context-aware anthropomorphic robotic hand system, MagicHa
       organization={IEEE}
     }
 
-[[download paper](https://ieeexplore.ieee.org/document/9196538)]
+[[download paper](files/ICRA2020.pdf)]
 
 ## Learning robotic grasping strategy based on natural-language object descriptions
 This paper presents a learning-based approach for determining grasping strategies for an anthropomorphic robotic hand using natural-language descriptions of objects. A customized natural language processing technique is used to extract object features, which are then mapped to appropriate grasp types based on a human grasp taxonomy. The proposed method is evaluated through both simulation and real-world experiments using an AR10 robotic hand, demonstrating its effectiveness in generating suitable grasp strategies from linguistic input.
@@ -126,7 +126,7 @@ This paper presents a learning-based approach for determining grasping strategie
       organization={IEEE}
     }
 
-[[download paper](https://ieeexplore.ieee.org/document/8593886)]
+[[download paper](files/Bharath_IROS.pdf)]
 
 ## Magichand: In-hand perception of object characteristics for dexterous manipulation
 
@@ -144,4 +144,4 @@ This paper addresses a key challenge in dexterous grasping: perceiving object ch
       organization={Springer}
     }
 
-[[download paper](https://link.springer.com/chapter/10.1007/978-3-030-05204-1_51)]
+[[download paper](files/ICSR2018.pdf)]
