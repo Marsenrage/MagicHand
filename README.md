@@ -58,7 +58,9 @@ This paper introduces a grasp adaptation algorithm that enables social robots to
     year={2024},
     organization={Springer}
     }
-[[download paper](files/icsr2023.pdf)]
+
+Visit the [paper](files/icsr2023.pdf) for more information.
+
 
 ## Knowledge Augmentation and Task Planning in Large Language Models for Dexterous Grasping
 This paper presents a Cognition-Based Grasping System that enhances dexterous grasping by integrating high-level cognitive processes. Unlike existing approaches that rely heavily on object datasets and learning-based planning, this system incorporates perception, reasoning, and intuition using a Large Language Model to infer missing object information through common sense. It then learns and executes appropriate grasp strategies.
@@ -75,14 +77,14 @@ This paper presents a Cognition-Based Grasping System that enhances dexterous gr
     organization={IEEE}
     }
 
-[[download paper](files/humanoid.pdf)]
-
+Visit the [paper](files/humanoid.pdf) for more information.
 
 ## Learning Task-Oriented Dexterous Grasping from Human Knowledge
 This paper proposes a task-oriented dexterous grasping framework that enables robots to learn and adapt grasp strategies based on human experience, object affordances, and task requirements. Grasp topologies are defined and learned from a task-oriented dataset, while a reinforcement learning-based policy enables context-aware strategy deployment. Evaluated using a simulated environment with an AR10 hand on a Sawyer robot, the system achieved a 100% hit rate for grasp strategies, a 95.6% top-3 match rate, and an 85.6% grasp success rate across 2,700 manipulation tasks guided by natural-language instructions.
 
 <p align="center"> 
 <img src="images/icra2021.jpg" alt="dexDual" width="680"/></p>
+
     @inproceedings{li2021learning,
       title={Learning Task-Oriented Dexterous Grasping from Human Knowledge},
       author={Li, Hui and Zhang, Yinlong and Li, Yanan and He, Hongsheng},
@@ -92,7 +94,7 @@ This paper proposes a task-oriented dexterous grasping framework that enables ro
       organization={IEEE}
     }
 
-[[download paper](files/ICRA2021.pdf)]
+Visit the [paper](files/ICRA2021.pdf) for more information.
 
 ## MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand
 
@@ -100,6 +102,7 @@ This paper presents a context-aware anthropomorphic robotic hand system, MagicHa
 
 <p align="center"> 
 <img src="images/icra2020.jpg" alt="dexDual" width="680"/></p>
+
     @inproceedings{li2020magichand,
       title={MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand},
       author={Li, Hui and Tan, Jindong and He, Hongsheng},
@@ -109,7 +112,7 @@ This paper presents a context-aware anthropomorphic robotic hand system, MagicHa
       organization={IEEE}
     }
 
-[[download paper](files/ICRA2020.pdf)]
+Visit the [paper](files/ICRA2020.pdf) for more information.
 
 ## Learning robotic grasping strategy based on natural-language object descriptions
 This paper presents a learning-based approach for determining grasping strategies for an anthropomorphic robotic hand using natural-language descriptions of objects. A customized natural language processing technique is used to extract object features, which are then mapped to appropriate grasp types based on a human grasp taxonomy. The proposed method is evaluated through both simulation and real-world experiments using an AR10 robotic hand, demonstrating its effectiveness in generating suitable grasp strategies from linguistic input.
@@ -126,7 +129,8 @@ This paper presents a learning-based approach for determining grasping strategie
       organization={IEEE}
     }
 
-[[download paper](files/Bharath_IROS.pdf)]
+Visit the [paper](files/Bharath_IROS.pdf) for more information.
+
 
 ## Magichand: In-hand perception of object characteristics for dexterous manipulation
 
@@ -144,4 +148,4 @@ This paper addresses a key challenge in dexterous grasping: perceiving object ch
       organization={Springer}
     }
 
-[[download paper](files/ICSR2018.pdf)]
+Visit the [paper](files/ICSR2018.pdf) for more information.
