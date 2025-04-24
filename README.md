@@ -120,12 +120,12 @@ This paper proposes a method to endow robots with a human-like object recall abi
 <p align="center"> 
 <img src="images/robio.jpg" alt="dexDual" width="500"/></p>
 
-    @inproceedings{rao2018learning,
-      title={Learning robotic grasping strategy based on natural-language object descriptions},
-      author={Rao, Achyutha Bharath and Krishnan, Krishna and He, Hongsheng},
-      booktitle={2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-      pages={882--887},
-      year={2018},
+    @inproceedings{rao2019object,
+      title={Object recall from natural-language descriptions for autonomous robotic grasping},
+      author={Rao, Achyutha Bharath and Li, Hui and He, Hongsheng},
+      booktitle={2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)},
+      pages={1368--1373},
+      year={2019},
       organization={IEEE}
     }
 
